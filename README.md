@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on website development projects<br>🤝 I’m looking for help with Any Web3 Developer<br>🌱 I’m currently learning Blockchain and Website Development<br>⚡ Fun fact, my hobby is Photography
+👯 I’m looking to collaborate on website development projects<br>🤝 I’m looking for help with Any Web3 Developer<br>🌱 I’m currently learning Blockchain Technology and Website Development<br>⚡ Fun fact, my hobby is Photography
 
 
 ## 🌐 Socials:
