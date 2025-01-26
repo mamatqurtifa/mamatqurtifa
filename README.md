@@ -36,4 +36,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mamatqurtifa&" alt="mamatqurtifa" /></p>
 
-![snake animation](https://github.com/mamatqurtifa/mamatqurtifa/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/mamatqurtifa/mamatqurtifa/blob/output/snake.svg)
