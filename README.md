@@ -1,5 +1,14 @@
+
 <h1 align="center">Hi 👋, I'm Muhammad Qurtifa Wijaya</h1>
 <h3 align="center">A passionate frontend developer from Yogyakarta, Indonesia</h3>
+
+<!--
+![Header](./github-header-image.png)
+
+<div align="center">
+  <img src="./github-header-image-2.png" alt="Banner Qurtifa" />
+</div>
+-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mamatqurtifa&label=Profile%20views&color=0e75b6&style=flat" alt="mamatqurtifa" /> </p>
 
