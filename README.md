@@ -35,3 +35,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mamatqurtifa&show_icons=true&locale=en" alt="mamatqurtifa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mamatqurtifa&" alt="mamatqurtifa" /></p>
+
+![snake animation](https://github.com/mamatqurtifa/mamatqurtifa/blob/output/github-contribution-grid-snake2.svg)
