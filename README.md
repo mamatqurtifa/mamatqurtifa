@@ -6,8 +6,6 @@
 ## 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app?username=mamatqurtifa&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 👯 I’m looking to collaborate on **any web development projects**
 
 - 📝 I regularly write articles on [https://medium.com/@muhammadqurtifa](https://medium.com/@muhammadqurtifa)
