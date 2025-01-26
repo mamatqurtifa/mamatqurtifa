@@ -42,9 +42,16 @@
 
 ---
 ## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+</div>
 
 ---
+<div align="center">
+
 [![](https://visitcount.itsvg.in/api?id=mamatqurtifa&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ![snake animation](https://github.com/mamatqurtifa/mamatqurtifa/blob/output/snake.svg)
+
+</div>
+
