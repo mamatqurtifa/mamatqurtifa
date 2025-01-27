@@ -27,28 +27,29 @@
 
 ## Connect with me :
 <div align="left">
-  <a href="https://www.linkedin.com/in/mamatqurtifa/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/mamatqurtifa/" target="_blank" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
-  <a href="https://www.youtube.com/@mamat_qurtifa19" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <a href="https://www.youtube.com/@mamat_qurtifa19" target="_blank" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" />
   </a>
-  <a href="https://www.instagram.com/mamat_qurtifa/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <a href="https://www.instagram.com/mamat_qurtifa/" target="_blank" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
-  <a href="https://stackoverflow.com/users/26459251/muhammad-qurtifa-wijaya" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
+  <a href="https://stackoverflow.com/users/26459251/muhammad-qurtifa-wijaya" target="_blank" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo" />
   </a>
-  <a href="https://medium.com/@muhammadqurtifa" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+  <a href="https://medium.com/@muhammadqurtifa" target="_blank" style="text-decoration:none;">
+    <img src="https://cdns.iconmonstr.com/wp-content/releases/preview/2018/240/iconmonstr-medium-1.png" height="40" alt="medium logo" />
   </a>
-  <a href="https://links.qurtifa.my.id" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
+  <a href="https://links.qurtifa.my.id" target="_blank" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo" />
   </a>
-  <a href="https://www.behance.net/mamatqurtifa" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  />
+  <a href="https://www.behance.net/mamatqurtifa" target="_blank" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo" />
   </a>
 </div>
+
 
 ## Languages and Tools :
 <div align="left">
