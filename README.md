@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on **any web development projects**
 
-- 📝 I regularly write articles on [https://medium.com/@muhammadqurtifa](https://medium.com/@muhammadqurtifa)
+- 📝 I regularly write articles on [https://medium.com/@qurtifa](https://medium.com/@qurtifa)
 
 - 💬 Ask me about **React or Laravel**
 
