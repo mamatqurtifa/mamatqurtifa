@@ -10,7 +10,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- Loading...
+- [Memahami Perbedaan API, REST API, dan RESTful API](https://qurtifa.my.id/blog/perbedaan-api-rest-restful) - February 14, 2026 - Web Development
+- [Tutorial JSON Web Token (JWT) Auth Di Laravel 12 Untuk Pembuatan API 2026](https://qurtifa.my.id/blog/jwt-auth-laravel-api-2026) - February 13, 2026 - Laravel
+- [Server Hardening - Part 5: Monitoring & Incident Response](https://qurtifa.my.id/blog/server-hardening-debian-ubuntu-part-5) - February 12, 2026 - Security
+- [Server Hardening - Part 4: System Hardening](https://qurtifa.my.id/blog/server-hardening-debian-ubuntu-part-4) - February 12, 2026 - Security
+- [Server Hardening - Part 3: Application Security](https://qurtifa.my.id/blog/server-hardening-debian-ubuntu-part-3) - February 12, 2026 - Security
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect with me :
