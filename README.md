@@ -8,6 +8,9 @@
 ## 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app?username=mamatqurtifa&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 
+## About Me
+I am Muhammad Qurtifa Wijaya, a Full-Stack Developer with a strong passion for both modern web development and reliable server infrastructure. As a student majoring in Sistem Informasi Jaringan dan Aplikasi (Network and Application Information Systems) at SMK Negeri 2 Depok Sleman, I specialize in building responsive, client-focused applications using React.js, Next.js, Laravel, and Tailwind CSS, and I am actively expanding my expertise into Vue.js and Nuxt. Beyond writing code, I have a deep interest in DevOps. I bridge the gap between development and deployment by managing virtual private servers, utilizing containerization, and exploring CI/CD pipelines to deliver seamless, end-to-end digital solutions.
+
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - Loading...
