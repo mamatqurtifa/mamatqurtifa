@@ -1,0 +1,97 @@
+name: Update README with latest blog posts
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Update README from blog API
+        run: |
+          node - <<'NODE'
+          const fs = require('fs');
+
+          const apiUrl = 'https://www.qurtifa.my.id/api/blog';
+          const readmePath = 'README.md';
+          const startMarker = '<!-- BLOG-POST-LIST:START -->';
+          const endMarker = '<!-- BLOG-POST-LIST:END -->';
+          const maxPosts = 5;
+
+          function escapeMarkdown(text) {
+            return text.replace(/\[/g, '\\[').replace(/\]/g, '\\]');
+          }
+
+          function escapeRegExp(text) {
+            return text.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+          }
+
+          async function main() {
+            const response = await fetch(apiUrl, { headers: { 'Accept': 'application/json' } });
+            if (!response.ok) {
+              throw new Error(`Failed to fetch blog posts: ${response.status} ${response.statusText}`);
+            }
+
+            const data = await response.json();
+            const posts = Array.isArray(data.posts) ? data.posts : [];
+
+            const sorted = posts.slice().sort((a, b) => {
+              const aDate = new Date(a.publishedAt || a.date || 0).getTime();
+              const bDate = new Date(b.publishedAt || b.date || 0).getTime();
+              return bDate - aDate;
+            });
+
+            const lines = sorted.slice(0, maxPosts).map((post) => {
+              const title = escapeMarkdown(String(post.title || 'Untitled'));
+              const link = post.link || (post.slug ? `https://www.qurtifa.my.id/blog/${post.slug}` : apiUrl);
+              const dateText = post.date ? ` - ${post.date}` : '';
+              const tagText = post.tag ? ` - ${post.tag}` : '';
+              return `- [${title}](${link})${dateText}${tagText}`;
+            });
+
+            const list = lines.length > 0 ? lines.join('\n') : '- No posts found.';
+            const block = `${startMarker}\n${list}\n${endMarker}`;
+
+            const content = fs.readFileSync(readmePath, 'utf8');
+            if (!content.includes(startMarker) || !content.includes(endMarker)) {
+              throw new Error('README markers not found. Add the BLOG-POST-LIST markers first.');
+            }
+
+            const pattern = new RegExp(`${escapeRegExp(startMarker)}[\\s\\S]*?${escapeRegExp(endMarker)}`);
+            const updated = content.replace(pattern, block);
+
+            fs.writeFileSync(readmePath, updated, 'utf8');
+            console.log('README updated.');
+          }
+
+          main().catch((error) => {
+            console.error(error);
+            process.exit(1);
+          });
+          NODE
+
+      - name: Commit and push if changed
+        run: |
+          if git status --porcelain | grep -q "README.md"; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "chore: update blog posts"
+            git push
+          else
+            echo "No changes to commit."
+          fi

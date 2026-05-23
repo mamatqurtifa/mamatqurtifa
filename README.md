@@ -1,29 +1,17 @@
 
-<h1 align="center">Hi 👋, I'm Muhammad Qurtifa Wijaya</h1>
-<h3 align="center">A passionate frontend developer from Yogyakarta, Indonesia</h3>
-
-<!--
-![Header](./github-header-image.png)
-
 <div align="center">
-  <img src="./github-header-image-2.png" alt="Banner Qurtifa" />
+  <img src="./github-header.png" alt="Banner Qurtifa" />
 </div>
--->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mamatqurtifa&label=Profile%20views&color=0e75b6&style=flat" alt="mamatqurtifa" /> </p>
 
 ## 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app?username=mamatqurtifa&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 
-- 👯 I’m looking to collaborate on **any web development projects**
-
-- 📝 I regularly write articles on [https://medium.com/@qurtifa](https://medium.com/@qurtifa)
-
-- 💬 Ask me about **React or Laravel**
-
-- 📫 How to reach me **contact@qurtifa.me**
-
-- ⚡ Fun fact **my hobby is Photography**
+## Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- Loading...
+<!-- BLOG-POST-LIST:END -->
 
 ## Connect with me :
 <div align="left">
