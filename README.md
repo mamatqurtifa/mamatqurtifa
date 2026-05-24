@@ -51,16 +51,16 @@ I am Muhammad Qurtifa Wijaya, a Full-Stack Developer with a strong passion for b
 </p>
 
 ## GitHub Stats
-<div align="center">
+<div align="left">
   <img src="./profile-summary-card-output/apprentice/0-profile-details.svg" alt="Profile details" />
 </div>
 
-<div align="center">
+<div align="left">
   <img src="./profile-summary-card-output/apprentice/1-repos-per-language.svg" alt="Repos per language" />
   <img src="./profile-summary-card-output/apprentice/2-most-commit-language.svg" alt="Most commit language" />
 </div>
 
-<div align="center">
+<div align="left">
   <img src="./profile-summary-card-output/apprentice/3-stats.svg" alt="Stats" />
   <img src="./profile-summary-card-output/apprentice/4-productive-time.svg" alt="Productive time" />
 </div>
