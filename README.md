@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mamatqurtifa&label=Profile%20views&color=0e75b6&style=flat" alt="mamatqurtifa" /> </p>
 
+<!-- LAST-UPDATED: 2026-05-24 -->
+
 ## About Me
 I am Muhammad Qurtifa Wijaya, a Full-Stack Developer with a strong passion for both modern web development and reliable server infrastructure. As a student majoring in Sistem Informasi Jaringan dan Aplikasi (Network and Application Information Systems) at SMK Negeri 2 Depok Sleman, I specialize in building responsive applications using React.js, Next.js, Laravel, and Tailwind CSS, and I am actively expanding my expertise into Vue.js and Nuxt. Beyond writing code, I have a deep interest in DevOps. I connect development and deployment by managing virtual private servers. I have learned Docker and AWS, including AWS Lambda, CloudWatch, EC2, ECS, RDS, and other AWS ecosystem services, and I use GitHub Actions. I have also learned the basics of Ansible, am familiar with Ubuntu and Debian Linux, and am comfortable using Git and Nginx. I am currently deepening my DevOps knowledge.
 
@@ -123,19 +125,6 @@ I am Muhammad Qurtifa Wijaya, a Full-Stack Developer with a strong passion for b
       </td>
     </tr>
   </table>
-</div>
-
-<!-- ## 📊 GitHub Stats :
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mamatqurtifa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mamatqurtifa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  /><br>
-  <img src="https://i.giphy.com/25UxpWoNBu8nOtURm9.webp" height="150" />
-  <img src="https://streak-stats.demolab.com?user=mamatqurtifa&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-<img src="https://i.giphy.com/0lGd2OXXHe4tFhb7Wh.webp" height="150" />
-</div><br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mamatqurtifa&radius=16&theme=dracula&area=true&order=5&hide_border=true&hide_title=false" height="300" width="full" alt="activity-graph graph"  />
 </div>
 
 ---
