@@ -90,9 +90,9 @@ I am Muhammad Qurtifa Wijaya, a Full-Stack Developer with a strong passion for b
 
 ## GitHub Stats
 <div align="center">
-  <table>
+  <table border="0" cellpadding="6" cellspacing="12" style="border: 1px solid transparent; border-collapse: separate;">
     <tr>
-      <td>
+      <td style="border: 1px solid transparent; padding: 6px 10px;">
         <img src="./profile-summary-card-output/apprentice/0-profile-details.svg" alt="Profile details" />
       </td>
     </tr>
@@ -100,12 +100,12 @@ I am Muhammad Qurtifa Wijaya, a Full-Stack Developer with a strong passion for b
 </div>
 
 <div align="center">
-  <table>
+  <table border="0" cellpadding="6" cellspacing="12" style="border: 1px solid transparent; border-collapse: separate;">
     <tr>
-      <td>
+      <td style="border: 1px solid transparent; padding: 6px 10px;">
         <img src="./profile-summary-card-output/apprentice/1-repos-per-language.svg" alt="Repos per language" />
       </td>
-      <td>
+      <td style="border: 1px solid transparent; padding: 6px 10px;">
         <img src="./profile-summary-card-output/apprentice/2-most-commit-language.svg" alt="Most commit language" />
       </td>
     </tr>
@@ -113,12 +113,12 @@ I am Muhammad Qurtifa Wijaya, a Full-Stack Developer with a strong passion for b
 </div>
 
 <div align="center">
-  <table>
+  <table border="0" cellpadding="6" cellspacing="12" style="border: 1px solid transparent; border-collapse: separate;">
     <tr>
-      <td>
+      <td style="border: 1px solid transparent; padding: 6px 10px;">
         <img src="./profile-summary-card-output/apprentice/3-stats.svg" alt="Stats" />
       </td>
-      <td>
+      <td style="border: 1px solid transparent; padding: 6px 10px;">
         <img src="./profile-summary-card-output/apprentice/4-productive-time.svg" alt="Productive time" />
       </td>
     </tr>
