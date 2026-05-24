@@ -127,13 +127,6 @@ I am Muhammad Qurtifa Wijaya, a Full-Stack Developer with a strong passion for b
   </table>
 </div>
 
----
-## ✍️ Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
-</div>
-
---- -->
 <div align="center">
 
 [![](https://visitcount.itsvg.in/api?id=mamatqurtifa&icon=0&color=0)](https://visitcount.itsvg.in)
