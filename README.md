@@ -5,11 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mamatqurtifa&label=Profile%20views&color=0e75b6&style=flat" alt="mamatqurtifa" /> </p>
 
-## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app?username=mamatqurtifa&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-
 ## About Me
-I am Muhammad Qurtifa Wijaya, a Full-Stack Developer with a strong passion for both modern web development and reliable server infrastructure. As a student majoring in Sistem Informasi Jaringan dan Aplikasi (Network and Application Information Systems) at SMK Negeri 2 Depok Sleman, I specialize in building responsive, client-focused applications using React.js, Next.js, Laravel, and Tailwind CSS, and I am actively expanding my expertise into Vue.js and Nuxt. Beyond writing code, I have a deep interest in DevOps. I bridge the gap between development and deployment by managing virtual private servers, utilizing containerization, and exploring CI/CD pipelines to deliver seamless, end-to-end digital solutions.
+I am Muhammad Qurtifa Wijaya, a Full-Stack Developer with a strong passion for both modern web development and reliable server infrastructure. As a student majoring in Sistem Informasi Jaringan dan Aplikasi (Network and Application Information Systems) at SMK Negeri 2 Depok Sleman, I specialize in building responsive applications using React.js, Next.js, Laravel, and Tailwind CSS, and I am actively expanding my expertise into Vue.js and Nuxt. Beyond writing code, I have a deep interest in DevOps. I connect development and deployment by managing virtual private servers. I have learned Docker and AWS, including AWS Lambda, CloudWatch, EC2, ECS, RDS, and other AWS ecosystem services, and I use GitHub Actions. I have also learned the basics of Ansible, am familiar with Ubuntu and Debian Linux, and am comfortable using Git and Nginx. I am currently deepening my DevOps knowledge.
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -19,6 +16,9 @@ I am Muhammad Qurtifa Wijaya, a Full-Stack Developer with a strong passion for b
 - [Server Hardening - Part 4: System Hardening](https://qurtifa.my.id/blog/server-hardening-debian-ubuntu-part-4) - February 12, 2026 - Security
 - [Server Hardening - Part 3: Application Security](https://qurtifa.my.id/blog/server-hardening-debian-ubuntu-part-3) - February 12, 2026 - Security
 <!-- BLOG-POST-LIST:END -->
+
+## GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app?username=mamatqurtifa&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 
 ## Connect with me :
 <div align="left">
@@ -44,6 +44,11 @@ I am Muhammad Qurtifa Wijaya, a Full-Stack Developer with a strong passion for b
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo" />
   </a>
 </div>
+
+
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/9f43ad9f-bd5b-4f48-beb6-26007741fbd3/thumbnail" width="220" alt="Boot.dev profile" />
+</p>
 
 
 ## Languages and Tools :
@@ -118,6 +123,21 @@ I am Muhammad Qurtifa Wijaya, a Full-Stack Developer with a strong passion for b
 </div>
 
 ###
+
+## GitHub Summary Cards
+<div align="center">
+  <img src="./profile-summary-card-output/transparent/0-profile-details.svg" alt="Profile details" />
+</div>
+
+<div align="center">
+  <img src="./profile-summary-card-output/transparent/1-repos-per-language.svg" alt="Repos per language" />
+  <img src="./profile-summary-card-output/transparent/2-most-commit-language.svg" alt="Most commit language" />
+</div>
+
+<div align="center">
+  <img src="./profile-summary-card-output/transparent/3-stats.svg" alt="Stats" />
+  <img src="./profile-summary-card-output/transparent/4-productive-time.svg" alt="Productive time" />
+</div>
 
 ## 📊 GitHub Stats :
 <div align="center">
