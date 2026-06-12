@@ -12,11 +12,11 @@ I am Muhammad Qurtifa Wijaya, a Full-Stack Developer with a strong passion for b
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Belajar SQL: Membangun Database E-Commerce dari Nol](https://qurtifa.my.id/blog/belajar-sql-database) - June 8, 2026 - Database
 - [Smart Hidroponik dengan ESP8266 dan MicroPython](https://qurtifa.my.id/blog/smart-hidroponik-esp8266-micropython) - March 12, 2026 - Internet of Things
 - [Materi Junior Database Administrator: Sistem E-Commerce](https://qurtifa.my.id/blog/analisis-dan-perancangan-database) - February 26, 2026 - Database
 - [Memahami Perbedaan API, REST API, dan RESTful API](https://qurtifa.my.id/blog/perbedaan-api-rest-restful) - February 14, 2026 - Web Development
 - [Tutorial JSON Web Token (JWT) Auth Di Laravel 12 Untuk Pembuatan API 2026](https://qurtifa.my.id/blog/jwt-auth-laravel-api-2026) - February 13, 2026 - Laravel
-- [Server Hardening - Part 5: Monitoring & Incident Response](https://qurtifa.my.id/blog/server-hardening-debian-ubuntu-part-5) - February 12, 2026 - Security
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub Trophies
