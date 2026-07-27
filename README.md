@@ -12,11 +12,11 @@ I am Muhammad Qurtifa Wijaya, a Full-Stack Developer with a strong passion for b
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Belajar AWS, RDS, IAM, SSM, dan Monitoring (Part 2)](https://qurtifa.my.id/blog/belajar-aws-infrastruktur-cloud-part-2) - July 27, 2026 - Cloud,DevOps
+- [Belajar AWS, Infrastruktur Cloud dari Nol (Part 1)](https://qurtifa.my.id/blog/belajar-aws-infrastruktur-cloud-part-1) - July 26, 2026 - Cloud,DevOps
+- [Belajar Docker dari Nol](https://qurtifa.my.id/blog/belajar-docker-dari-nol) - July 26, 2026 - DevOps
 - [Smart Hidroponik dengan ESP8266 dan MicroPython](https://qurtifa.my.id/blog/smart-hidroponik-esp8266-micropython) - March 12, 2026 - Internet of Things
 - [Memahami Perbedaan API, REST API, dan RESTful API](https://qurtifa.my.id/blog/perbedaan-api-rest-restful) - February 14, 2026 - Web Development
-- [Tutorial JSON Web Token (JWT) Auth Di Laravel 12 Untuk Pembuatan API 2026](https://qurtifa.my.id/blog/jwt-auth-laravel-api-2026) - February 13, 2026 - Laravel
-- [CRUD dengan File Handling di Laravel untuk E-Commerce](https://qurtifa.my.id/blog/crud-file-handling-laravel-ecommerce) - February 5, 2026 - Laravel
-- [SEO Optimization Guide](https://qurtifa.my.id/blog/seo-optimization-guide) - January 8, 2026 - SEO
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub Trophies
