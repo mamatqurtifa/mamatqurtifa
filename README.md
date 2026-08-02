@@ -20,7 +20,32 @@ I am Muhammad Qurtifa Wijaya, a Full-Stack Developer with a strong passion for b
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app?username=mamatqurtifa&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+<img src="https://github-trophies.vercel.app/?username=mamatqurtifa&theme=dracula" height="150" alt="trophy graph"  />
+
+## Google Developer Badges
+<div align="left">
+  <img src="https://developers.google.com/static/profile/badges/activity/android/install-android-studio/badge.svg" height="100" alt="Android Studio User" />
+  <img width="12" />
+  <img src="https://developers.google.com/static/profile/badges/activity/idx/idx-user/badge.svg" height="100" alt="Project IDX User" />
+  <img width="12" />
+  <img src="https://developers.google.com/static/profile/badges/skillsboost/earned-badge/badge.svg" height="100" alt="Google Skills" />
+  <img width="12" />
+  <img src="https://developers.google.com/static/profile/badges/community/gear/badge.svg" height="100" alt="Gemini Enterprise Agent Ready" />
+  <img width="12" />
+  <img src="https://developers.google.com/static/profile/badges/nvidia-developer/badge.svg" height="100" alt="Google Cloud & NVIDIA community member" />
+  <img width="12" />
+  <img src="https://developers.google.com/static/profile/badges/community/innovators/cloud/innovators_plus/badge.svg" height="100" alt="Google Developer Program premium tier" />
+  <img width="12" />
+  <img src="https://developers.google.com/static/profile/badges/community/sdlcagents/gca-agents/badge.svg" height="100" alt="Code Wiki" />
+  <img width="12" />
+  <img src="https://developers.google.com/static/profile/badges/community/innovators/maps/badge.svg" height="100" alt="Google Maps Platform Innovators" />
+  <img width="12" />
+  <img src="https://developers.google.com/static/profile/badges/community/firebasestudio/firebase-studio/badge.svg" height="100" alt="Firebase Studio Developer Community" />
+  <img width="12" />
+  <img src="https://developers.google.com/static/profile/badges/community/gdg/member/badge.svg" height="100" alt="Google Developer Group member" />
+  <img width="12" />
+  <img src="https://developers.google.com/static/profile/badges/community/gdg/chapter/badge.svg" height="100" alt="GDG on Campus BINUS University Online - Jakarta, Indonesia Member" />
+</div>
 
 ## Tech Stack
 ### Fullstack
