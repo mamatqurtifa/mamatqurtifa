@@ -12,11 +12,11 @@ I am Muhammad Qurtifa Wijaya, a Full-Stack Developer with a strong passion for b
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Lanjutan (Part 2)](https://qurtifa.my.id/blog/belajar-kubernetes-lanjutan) - August 2, 2026 - DevOps,Cloud
-- [Mengenal Kubernetes (Part 1)](https://qurtifa.my.id/blog/belajar-kubernetes-dasar) - August 1, 2026 - DevOps,Cloud
-- [Belajar AWS, RDS, IAM, SSM, dan Monitoring (Part 2)](https://qurtifa.my.id/blog/belajar-aws-infrastruktur-cloud-part-2) - July 27, 2026 - Cloud,DevOps
-- [Belajar AWS, Infrastruktur Cloud dari Nol (Part 1)](https://qurtifa.my.id/blog/belajar-aws-infrastruktur-cloud-part-1) - July 26, 2026 - Cloud,DevOps
-- [Belajar Docker dari Nol](https://qurtifa.my.id/blog/belajar-docker-dari-nol) - July 26, 2026 - DevOps
+- [Belajar Mermaid: Membuat Diagram Teknis Langsung dari Kode](https://qurtifa.my.id/blog/belajar-mermaid-untuk-dokumentasi-teknis) - November 25, 2026 - DevOps,Web Development
+- [Belajar YAML Kubernetes: Membedah spec, status, dan Studi Kasus (Part 2)](https://qurtifa.my.id/blog/belajar-kubernetes-yaml-part-2) - November 25, 2026 - DevOps,Cloud
+- [Belajar YAML Kubernetes: Struktur, Metadata, dan resourceVersion (Part 1)](https://qurtifa.my.id/blog/belajar-kubernetes-yaml-part-1) - November 25, 2026 - DevOps,Cloud
+- [Belajar Kubernetes Lanjutan (Part 2)](https://qurtifa.my.id/blog/belajar-kubernetes-lanjutan) - August 2, 2026 - DevOps,Cloud
+- [Belajar Kubernetes Dasar (Part 1)](https://qurtifa.my.id/blog/belajar-kubernetes-dasar) - August 1, 2026 - DevOps,Cloud
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub Trophies
